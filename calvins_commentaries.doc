@@ -1,0 +1,452 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:word" xmlns="http://www.w3.org/TR/REC-html40" xmlns:xi="http://www.w3.org/2001/XInclude">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv='Content-Type content="text/html; charset=utf-8"'></meta>
+<meta name="ProgID" content="Word.Document"></meta>
+<meta name="Generator" content="Microsoft Word 10"></meta>
+<meta name="Originator" content="Microsoft Word 10"></meta>
+<title>Calvin's Commentaries—Complete</title>
+
+<style xmlns="" type="text/css">
+span.XML
+	{mso-style-name:XML;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	color:red;}
+span.attribute
+	{mso-style-name:attribute;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	color:red;}
+span.MsoFootnoteReference
+	{ vertical-align:super; }
+div.ThMLhead
+	{
+	mso-style-name:ThMLhead;
+	whitespace:pre;
+	background:#D0D0D0;
+	font-family:"Courier New";
+	color:red;
+	mso-style-name:ThMLhead
+	}
+p.div1
+	{
+	mso-style-name:div1;
+	margin-top:.25in; 
+	margin-left:0in;
+	text-align:center;
+	mso-outline-level:1;
+	background:red;
+	border:none;
+	font-size:18pt;
+	font-family:"Arial";
+	color:yellow;
+	font-weight:bold;}
+p.div2
+	{
+	mso-style-name:div2;
+	margin-top:.25in; 
+	margin-left:0in;
+	text-align:center;
+	mso-outline-level:2;
+	background:red;
+	border:none;
+	font-size:16pt;
+	font-family:"Arial";
+	color:yellow;
+	font-weight:bold;}
+p.div3
+	{
+	mso-style-name:div3;
+	margin-top:.25in; 
+	margin-left:0in;
+	text-align:center;
+	mso-outline-level:3;
+	background:red;
+	border:none;
+	font-size:14pt;
+	font-family:"Arial";
+	color:yellow;
+	font-weight:bold;}
+p.div4
+	{
+	mso-style-name:div4;
+	margin-top:.25in; 
+	margin-left:0in;
+	text-align:center;
+	mso-outline-level:4;
+	background:red;
+	border:none;
+	font-size:12pt;
+	font-family:"Arial";
+	color:yellow;
+	font-weight:bold;}
+p.div5
+	{
+	mso-style-name:div5;
+	margin-top:.25in; 
+	margin-left:0in;
+	text-align:center;
+	mso-outline-level:5;
+	background:red;
+	border:none;
+	font-size:10pt;
+	font-family:"Arial";
+	color:yellow;
+	font-weight:bold;}
+
+
+body 		{ background: #FFF0E6; margin-left:0.75in; margin-right:0.75in;
+      		  margin-top: 0pt; margin-bottom: 0pt; font-family:Times }
+
+p    		{ text-indent:0.25in; margin-top: 0pt; margin-bottom: 0pt }
+p.Normal	{ text-indent:0.25in; margin-top: 0pt; margin-bottom: 0pt }
+h1, h2, h3, h4	{ text-align: center; font-weight: bold }
+h5, h6		{ font-weight: normal; font-style: italic; text-align: left }
+h1		{ font-size: x-large; margin-top: 18pt }
+h2		{ font-size: large; margin-top: 12pt }
+h3		{ font-size: medium; margin-top: 9pt }
+h4		{ font-size: small; margin-top: 6pt }
+h5		{ margin-top: 6pt }
+h6		{ margin-top: 6pt }
+i,em		{ font-style: italic }
+address		{ font-style: italic }
+b,strong	{ font-weight: bold }
+sub		{ vertical-align: sub }
+sup		{ vertical-align: super }
+code,tt,pre	{ font-family: courier; white-space:pre }
+big		{ font-size: larger }
+small		{ font-size: smaller }
+blockquote	{ margin-left:0.5in; margin-right:0.5in; margin-top: 12pt;
+		  margin-bottom:12pt }
+.blockquote	{ margin-left:0.5in; margin-right:0.5in; text-indent:0in; 
+		  margin-top:12pt }
+
+a.TOC		{ mso-style-name:TOC; text-decoration: none }
+a.TOC:hover	{ mso-style-name:TOC; text-decoration: underline }
+a.Note		{ mso-style-name:Note; text-decoration: none }
+a.Note:hover	{ mso-style-name:Note; text-decoration: underline }
+p.First 	{ mso-style-name:First; text-indent: 0.0in }
+p.First:first-letter {mso-style-name:First; font-size: 300%; float: left; margin-top:-12pt}
+p.dropcap	{ text-indent: 0in }
+p.dropcap:first-letter {font-size:200%; float:left }
+p.smallcap	{ text-indent: 0in }
+p.smallcap:first-word	{ font-variant:small-caps }
+p.smallcap:first-letter	{ font-size:200% }
+span.sc		{ font-variant: small-caps }
+
+p.indent, p.Normal 	{ }
+p.Continue	{ mso-style-name:Continue; text-indent: 0in }
+p.ChapterSummary { mso-style-name:ChapterSummary; text-align: center; font-style: italic }
+p.Attribution 	{ mso-style-name:Attribution; text-align: right }
+p.Argument	{ mso-style-name:Argument; text-align: center; font-style: italic }
+p.meter		{ text-align: right; margin-top: -12pt }
+p.SectionInfo 	{ mso-style-name:SectionInfo; margin-left: 1.0in; text-indent: -0.5in;
+		  margin-right: 0.5in; font-style: italic }
+p.footnote	{ text-indent:0.25in }
+p.endnote	{ text-indent:0.25in }
+.pagebreak	{ page-break-before:always }
+sup.Note	{ mso-style-name:Note1; font-size: 75% }
+sup.NoteRef	{ mso-style-name:NoteRef; font-size: 85% }
+div.Note	{ mso-style-name:Note2; font-size: 88%; text-indent: 0.25in }
+p.noteMark	{ mso-style-name:noteMark; text-indent:0in; margin-bottom:-12pt }
+p.pages		{ text-indent:0in; font-size:smaller }
+
+.List1		{ mso-style-name:List1; text-indent: -0.25in;
+			margin-right:0.25in; margin-left: 0.5in }
+.List2		{ mso-style-name:List2; text-indent: -0.25in;
+			margin-right:0.25in; margin-left: 0.75in }
+.List3		{ mso-style-name:List3; text-indent: -0.25in;
+			margin-right:0.25in; margin-left: 1.0in }
+.List4		{ mso-style-name:List4; text-indent: -0.25in;
+			margin-right:0.25in; margin-left: 1.25in }
+.List5		{ mso-style-name:List5; text-indent: -0.25in;
+			margin-right:0.25in; margin-left: 1.5in }
+.List6		{ mso-style-name:List6; text-indent: -0.25in;
+			margin-right:0.25in; margin-left: 1.75in }
+.List7		{ mso-style-name:List7; text-indent: -0.25in;
+			margin-right:0.25in; margin-left: 2.0in }
+
+.ListCont1	{ mso-style-name:ListCont1; text-indent:0in;
+			margin-right:0.5in; margin-left: 0.5in }
+.ListCont2	{ mso-style-name:ListCont2; text-indent:0in;
+			margin-right:0.5in; margin-left: 0.75in }
+.ListCont3	{ mso-style-name:ListCont3; text-indent:0in;
+			margin-right:0.5in; margin-left: 1.0in }
+.ListCont4	{ mso-style-name:ListCont4; text-indent:0in;
+			margin-right:0.5in; margin-left: 1.25in }
+.ListCont5	{ mso-style-name:ListCont5; text-indent:0in;
+			margin-right:0.5in; margin-left: 1.5in }
+.ListCont6	{ mso-style-name:ListCont6; text-indent:0in;
+			margin-right:0.5in; margin-left: 1.75in }
+
+li.wwec		{ margin-left:16pt; text-indent:-16pt; font-face:Arial; 
+		  font-size:10pt }
+
+div.Verse	{ mso-style-name:Verse; margin-top: 6pt; margin-left: 1.25in; 
+                  margin-right: 0.5in; borderTopWidth: 24pt; 
+                  borderColor: #FFE0B0 }
+.t0		{ margin-left:5em; text-indent:-5em }
+.t1, .t		{ margin-left:5em; text-indent:-4em }
+.t2		{ margin-left:5em; text-indent:-3em }
+.t3		{ margin-left:5em; text-indent:-2em }
+.t4		{ margin-left:5em; text-indent:-1em }
+.t5		{ margin-left:5em }
+
+.TOC1, .TOC2, .TOC3, .TOC4 {text-indent: -0.3in; text-align: left }
+.TOC1		{ margin-left: 0.3in; font-weight: bold; 
+		 font-size: 110%; margin-top: 4pt }
+.TOC2		{ margin-left: 0.6in; font-size: 100%; margin-top: 3pt }
+.TOC3		{ margin-left: 0.9in; font-size: 90%; margin-top: 2pt }
+.TOC4		{ margin-left: 1.2in; font-size: 90%; margin-top: 1pt }
+.TOC5		{ margin-left: 1.5in; font-size: 90%; margin-top: 0pt }
+.TOC6		{ margin-left: 1.8in; font-size: 90%; margin-top: 0pt }
+
+.editbox	{ font-family:Arial,sans-serif; font-size: 10pt}
+.Center, .Centered 	{ mso-style-name:Centered; text-indent:0in; text-align:center }
+.left		{ text-align: left }
+
+ul.Index1	{ font-weight: bold }
+ul.Index2	{ font-weight: normal }
+p.index1, p.index2, p.index3, p.index4 { text-indent:-2em; margin-top:0in }
+p.index1	{ margin-left:2em }
+p.index2	{ margin-left:3em }
+p.index3	{ margin-left:4em }
+p.index4	{ margin-left:5em }
+
+p.bbook		{ font-weight: bold; text-align: center }
+p.bref		{ text-align: center }
+p.by		{ text-align: center; font-size: medium; margin-top: 12pt }
+
+.whitehead	{ font-family: arial,helvetica,sans-serif; font-size:10pt; 
+		  color:#FFFFFF; font-weight: bold; margin-top:0pt }
+table.marg 	{ position:absolute; left:0.1in; padding-left:1pt }
+td p		{ text-indent: 0in }
+p.thin		{ font-size:1pt; margin-top: 0pt }
+.page		{ text-indent:0in; font-family: arial,helvetica,sans-serif; 
+		  font-size:8pt; color:#FFFFFF }
+.chap		{ position: absolute; margin-left: -0.3in; float:left; 
+		  font-size:200% ; display:none }
+
+hr.W30		{ mso-style-name:W30; width: 30% }
+img.page	{ margin-left: -0.5in }
+
+p.bib		{ margin-left: 0.5in; text-indent: -0.25in; font-size: 10p }
+
+.mnote		{ display:inline; clear:right; font-size:smaller; float:right; 
+		  margin-top:0pt; background-color:#FFFFB0; padding: 6pt; 
+		  width:33%; text-indent:0in }
+
+.argument	{ text-align: center; font-style: italic; text-indent:0in; 
+                  margin-bottom:12pt }
+.attr	 	{ text-align: right }
+.meter		{ text-align: right; margin-top: -12pt }
+span.foreign	{ color: #003300 }
+span.unclear	{ color: #808080 }
+span.cite	{ font-style:italic; color:#006000 }
+span.pb		{ font-size:8pt; background:#660000; color:#FFFFFF; 
+		  font-family:Arial; }
+span.name	{ color:#800080 }
+span.Greek	{ font-family:Gentium; color:#993300 }
+span.Hebrew	{ font-family:'Times New Roman'; font-size: 111% }
+a.scripRef	{ color:#800000 }
+
+p.Verse1	{ margin-top:6pt; text-indent:-.5in; margin-left:.3in }
+p.Verse2	{ margin-top:6pt; text-indent:-.5in; margin-left:.6in }
+p.Verse3	{ margin-top:6pt; text-indent:-.5in; margin-left:.9in }
+p.Verse4	{ margin-top:6pt; text-indent:-.5in; margin-left:1.2in }
+p.Verse5	{ margin-top:6pt; text-indent:-.5in; margin-left:1.5in }
+
+.navbarfixed	{ position:absolute; top:0; left:0; width:100%; z-index:1; height:24pt; 
+		  background:#660000; color:white; border-bottom: solid #FFF0E6 4pt;
+		  font-family:Arial, sans-serif; font-size:10pt; 
+		}
+
+
+body	{ background:#FFF0E6; margin-left:0.5in; margin-right:0.5in }
+p.i1	{ margin-top:0pt; margin-bottom:0pt; margin-left:1em; text-indent:-1em }
+a	{ text-decoration:none; color:#0000B0 }
+.chaps	{ font-size:83% }
+
+
+
+
+
+</style>
+</head>
+
+<body lang="EN-US">
+<div class="Section1">
+<p class="div1">Calvin's Commentaries—Complete [ThML]</p>
+<div xmlns="" class="ThMLhead"><pre> 
+
+	 &lt;generalInfo&gt;
+		&lt;description&gt;Calvin's Commentaries, complete.&lt;/description&gt;
+		&lt;firstPublished&gt;1578&lt;/firstPublished&gt;
+		&lt;pubHistory&gt;1847 (Calvin Society)&lt;/pubHistory&gt;
+		&lt;comments&gt;&lt;/comments&gt; &lt;/generalInfo&gt; 
+
+	 &lt;printSourceInfo&gt;
+		&lt;published&gt;Baker, 1996&lt;/published&gt;
+	 &lt;/printSourceInfo&gt; 
+
+	 &lt;electronicEdInfo&gt;
+		&lt;publisherID&gt;ccel&lt;/publisherID&gt;
+		&lt;authorID&gt;calvin&lt;/authorID&gt;
+		&lt;bookID&gt;commentaries&lt;/bookID&gt;
+		&lt;version&gt;1.01&lt;/version&gt;
+		&lt;series&gt;&lt;/series&gt;
+		&lt;editorialComments&gt;1.0 initial scanning created much American spelling. sg initial XML insertion, footnote reconciliation. 1.01 fj Thml/XML inserted for OLB verse commentary, Foreign Language XML inserted into footnote section. English Scripture Table text verified against the Authorized Version&lt;/editorialComments&gt;
+		&lt;revisionHistory&gt;v0.99. Update for DTD 0.99. Main change: use DC record instead of MARC. Significant changes to the head section.v0.98. Update for DTD 0.98; delete some unneeded head elements; italicize Citation style&lt;/revisionHistory&gt;
+		&lt;status&gt;&lt;/status&gt;
+
+		&lt;DC&gt;
+		  &lt;DC.Title sub="Main"&gt;Calvin's Commentaries—Complete&lt;/DC.Title&gt;
+		  &lt;DC.Creator sub="Author" scheme="file-as"&gt;Calvin, John (1509-1564)&lt;/DC.Creator&gt;
+		  &lt;DC.Creator sub="Author" scheme="short-form"&gt;John Calvin&lt;/DC.Creator&gt;
+		  &lt;DC.Subject scheme="CCEL"&gt;All; Bible; &lt;/DC.Subject&gt;
+		  &lt;DC.Subject scheme="LCCN"&gt;BS485&lt;/DC.Subject&gt;
+		  &lt;DC.Subject scheme="lcsh1"&gt;The Bible&lt;/DC.Subject&gt;
+    &lt;DC.Subject scheme="lcsh2"&gt;Works about the Bible&lt;/DC.Subject&gt;
+    &lt;DC.Description&gt;&lt;/DC.Description&gt;
+		  &lt;DC.Publisher&gt;Grand Rapids, MI: Christian Classics Ethereal Library&lt;/DC.Publisher&gt;
+		  &lt;DC.Publisher scheme="CCEL"&gt;CCEL&lt;/DC.Publisher&gt;
+		  &lt;DC.Contributor sub="Markup" scheme="CCEL"&gt;sg, fj&lt;/DC.Contributor&gt;
+		  &lt;DC.Date sub="Created" scheme="ISO8601"&gt;1999-11-10&lt;/DC.Date&gt;
+		  &lt;DC.Type&gt;Text.Commentary&lt;/DC.Type&gt;
+		  &lt;DC.Format scheme="IMT"&gt;text/html&lt;/DC.Format&gt;
+		  &lt;DC.Language scheme="ISO639-1"&gt;en&lt;/DC.Language&gt;
+		  &lt;DC.Identifier scheme="URL"&gt;/ccel/calvin/commentaries.html&lt;/DC.Identifier&gt;
+		  &lt;DC.Rights&gt;Public Domain&lt;/DC.Rights&gt;
+		&lt;/DC&gt;
+		&lt;comments&gt;&lt;/comments&gt; 
+	&lt;/electronicEdInfo&gt;
+
+	
+
+
+
+
+
+</pre></div>
+<ThML.body xmlns="">
+
+<p class="div1">Title Page</p>
+
+<center id="i-p0.1">
+<table id="i-p0.2">
+<tr id="i-p0.3">
+<td width="30%" id="i-p0.4"><a href="pix/calinfo.htm" id="i-p0.5">
+<img alt="John Calvin" src="/ccel/calvin/commentaries/files/calvin.gif" border="0" height="120" id="i-p0.6"></a></td>
+<td width="70%" align="center" id="i-p0.7">
+<h1 id="i-p0.8">Calvin's Commentaries</h1>
+<h3 id="i-p0.9">Complete</h3>
+<p class="chaps" id="i-p1">From the <i>Calvin Translation Society</i> edition</p>
+</td>
+</tr>
+</table>
+</center>
+<hr style="width:80%">
+
+<center id="i-p1.2">
+<table id="i-p1.3">
+<tr id="i-p1.4">
+<td valign="top" width="47%" id="i-p1.5">
+<p class="i1" id="i-p2">Genesis 
+<span class="chaps" id="i-p2.1">
+	<a href="/ccel/calvin/calcom01.html" id="i-p2.2">1-23</a>,
+	<a href="/ccel/calvin/calcom02.html" id="i-p2.3">24-50</a>
+</span></p>
+<p class="i1" id="i-p3">Harmony of the Law:
+<span class="chaps" id="i-p3.1">
+	<a href="/ccel/calvin/calcom03.html" id="i-p3.2">Vol 1</a>,
+	<a href="/ccel/calvin/calcom04.html" id="i-p3.3">Vol 2</a>,
+	<a href="/ccel/calvin/calcom05.html" id="i-p3.4">Vol 3</a>,
+	<a href="/ccel/calvin/calcom06.html" id="i-p3.5">Vol 4</a>
+</span></p>
+<p class="i1" id="i-p4"><a href="/ccel/calvin/calcom07.html" id="i-p4.1">Joshua</a></p>
+<p class="i1" id="i-p5">Psalms:
+<span class="chaps" id="i-p5.1">
+	<a href="/ccel/calvin/calcom08.html" id="i-p5.2">1-35</a>,
+	<a href="/ccel/calvin/calcom09.html" id="i-p5.3">36-66</a>,
+	<a href="/ccel/calvin/calcom10.html" id="i-p5.4">67-92</a>,
+	<a href="/ccel/calvin/calcom11.html" id="i-p5.5">93-119</a>,
+	<a href="/ccel/calvin/calcom12.html" id="i-p5.6">119-150</a>
+</span></p>
+<p class="i1" id="i-p6">Isaiah:
+<span class="chaps" id="i-p6.1">
+	<a href="/ccel/calvin/calcom13.html" id="i-p6.2">1-16</a>,
+	<a href="/ccel/calvin/calcom14.html" id="i-p6.3">17-32</a>,
+	<a href="/ccel/calvin/calcom15.html" id="i-p6.4">33-48</a>,
+	<a href="/ccel/calvin/calcom16.html" id="i-p6.5">49-66</a>
+</span></p>
+<p class="i1" id="i-p7">Jeremiah-Lamentations:
+<span class="chaps" id="i-p7.1">
+	<a href="/ccel/calvin/calcom17.html" id="i-p7.2">1-9</a>,
+	<a href="/ccel/calvin/calcom18.html" id="i-p7.3">10-19</a>,
+	<a href="/ccel/calvin/calcom19.html" id="i-p7.4">20-29</a>,
+	<a href="/ccel/calvin/calcom20.html" id="i-p7.5">30-47</a>,
+	<a href="/ccel/calvin/calcom21.html" id="i-p7.6">48-52</a>
+</span></p>
+<p class="i1" id="i-p8">Ezekiel:
+<span class="chaps" id="i-p8.1">
+<a href="/ccel/calvin/calcom22.html" id="i-p8.2">1-12</a>,
+<a href="/ccel/calvin/calcom23.html" id="i-p8.3">13-20</a>
+</span></p>
+<p class="i1" id="i-p9">Daniel:
+<span class="chaps" id="i-p9.1">
+	<a href="/ccel/calvin/calcom24.html" id="i-p9.2">1-6</a>,
+	<a href="/ccel/calvin/calcom25.html" id="i-p9.3">7-12</a>
+</span></p>
+<p class="i1" id="i-p10"><a href="/ccel/calvin/calcom26.html" id="i-p10.1">Hosea</a></p>
+<p class="i1" id="i-p11"><a href="/ccel/calvin/calcom27.html" id="i-p11.1">Joel-Amos-Obadiah</a></p>
+<p class="i1" id="i-p12"><a href="/ccel/calvin/calcom28.html" id="i-p12.1">Jonah-Micah-Nahum</a></p>
+<p class="i1" id="i-p13"><a href="/ccel/calvin/calcom29.html" id="i-p13.1">Habakkuk-Zephaniah-Haggai</a></p>
+<p class="i1" id="i-p14"><a href="/ccel/calvin/calcom30.html" id="i-p14.1">Zechariah-Malachi</a></p>
+</td>
+<td width="6%" id="i-p14.2"></td>
+<td valign="top" width="47%" id="i-p14.3">
+<p class="i1" id="i-p15">Harmony of the Gospels:
+<span class="chaps" id="i-p15.1">
+	<a href="/ccel/calvin/calcom31.html" id="i-p15.2">Vol 1</a>,
+	<a href="/ccel/calvin/calcom32.html" id="i-p15.3">Vol 2</a>,
+	<a href="/ccel/calvin/calcom33.html" id="i-p15.4">Vol 3</a>
+</span></p>
+<p class="i1" id="i-p16">John:
+<span class="chaps" id="i-p16.1">
+	<a href="/ccel/calvin/calcom34.html" id="i-p16.2">1-11</a>,
+	<a href="/ccel/calvin/calcom35.html" id="i-p16.3">12-21</a>
+</span></p>
+<p class="i1" id="i-p17">Acts:
+<span class="chaps" id="i-p17.1">
+	<a href="/ccel/calvin/calcom36.html" id="i-p17.2">1-13</a>,
+	<a href="/ccel/calvin/calcom37.html" id="i-p17.3">14-28</a>
+</span></p>
+<p class="i1" id="i-p18"><a href="/ccel/calvin/calcom38.html" id="i-p18.1">Romans</a></p>
+<p class="i1" id="i-p19">Corinthians: 
+<span class="chaps" id="i-p19.1">
+	<a href="/ccel/calvin/calcom39.html" id="i-p19.2">1 Cor. 1-14</a>,
+	<a href="/ccel/calvin/calcom40.html" id="i-p19.4">1 Cor. 15-16, 2 Cor.</a>
+</span></p>
+<p class="i1" id="i-p20"><a href="/ccel/calvin/calcom41.html" id="i-p20.1">Galatians-Ephesians</a></p>
+<p class="i1" id="i-p21"><a href="/ccel/calvin/calcom42.html" id="i-p21.1">Philippians-Colossians-Thessalonians</a></p>
+<p class="i1" id="i-p22"><a href="/ccel/calvin/calcom43.html" id="i-p22.1">Timothy, Titus, Philemon</a></p>
+<p class="i1" id="i-p23"><a href="/ccel/calvin/calcom44.html" id="i-p23.1">Hebrews</a></p>
+<p class="i1" id="i-p24"><a href="/ccel/calvin/calcom45.html" id="i-p24.1">Catholic Epistles</a></p>
+</td>
+</tr>
+</table>
+</center>
+<hr style="width:80%">
+<p id="i-p25">
+These electronic texts of Calvin's Commentaries were prepared through
+the labor of volunteers for the OnLine Bible project and the
+Christian Classics Ethereal Library
+in conjunction with the good folks at
+<a href="http://www.ageslibrary.com/" id="i-p25.1">Ages Software</a>. Much work in
+programming and editing was done by Skip Gaede.</p>
+
+
+</ThML.body><div xmlns="" style="mso-element:footnote-list"></div></div>
+</body>
+</html>
+
