@@ -204,7 +204,7 @@ def xsl_convert_to_html(thml_file: Path, url: str, tabs: int):
                 f.write(response.content)
 
     # Load XSLT stylesheet
-    xslt_file_src = Path("C:/Users/jc_4_/Documents/CCEL/thml.html.xsl")
+    xslt_file_src = Path(__file__).parent / "thml.html.xsl"
     xslt_file = thml_file.parent / xslt_file_src.name
     xslt_file.write_bytes(xslt_file_src.read_bytes())
     if not thml_file.exists():
@@ -254,7 +254,7 @@ def html_to_docx(html_file: Path, tabs: int):
 
 
 # Example usage
-file_path = "C:/Users/jc_4_/Documents/CCEL/calvins_commentaries.doc"
+file_path = Path(__file__) / "calvins_commentaries.doc"
 data = parse_html(file_path)
 # print(data)
 
